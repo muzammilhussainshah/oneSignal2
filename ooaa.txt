@@ -1,0 +1,15 @@
+forgetton screen:
+already have account link is missing
+language selection menu is missing
+profile Drawer:
+onclick of Dietry requirements route will be change to ("DietryRequirements") as same as filter drawer
+establishment:
+rating features incomplete
+The icon in the middle will be a contact icon. When tapped an overlaying menu will be
+displayed. This will show the companies contact information, email address, phone number, and
+physical address.
+in body section first category heading will be nearby,
+and second heading same brand instead of other services
+and third will be same services
+My Yard:
++ button is missing
